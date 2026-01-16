@@ -30,7 +30,7 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 ## Assignments
 
-### Assignment 1:  [Working with Tableau: Visualizing Government Debt](working-with-tableau)
+### Assignment 1: [Working with Tableau: Visualizing Government Debt](working-with-tableau)
 
 ### Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design)
 
